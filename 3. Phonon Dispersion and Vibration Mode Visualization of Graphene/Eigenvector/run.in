@@ -1,0 +1,2 @@
+potential       potentials/tersoff/Graphene_Lindsay_2010_modified.txt 0
+compute_phonon  5 0.005 # in units of A
